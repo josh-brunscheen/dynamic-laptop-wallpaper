@@ -1,2 +1,1 @@
-- Finish Calc 3 homework
-- 
+Put any notes you would like displayed on your wallapper into this text file.
