@@ -16,14 +16,14 @@ side_length = 2800
     # Colors
 teal_blue = "#252f3b"
 light_blue = (109, 125, 145)
-file_name = r"C:\Users\brunsj2\Dropbox\PC\Pictures\daily_jam.jpg"
+file_name = "Absolute Path"
     # Fonts
 myFont = ImageFont.truetype('Ubuntu-Italic.ttf', 100)
 myFont2 = ImageFont.truetype('Ubuntu-Italic.ttf', 50)
     # Weather
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather?"
 CITY = "Albany"
-API_KEY = "d281253dad94d1f53fd0b8fe02605187"
+API_KEY = "your api key for OpenWeather"
 URL = BASE_URL + "appid=" + API_KEY + "&q=" + CITY
 temperature = "error"
 humidity = "error"
